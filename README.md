@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Paz</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **JavaScrip, React and Angular.**
+- 🌱 I’m currently learning **JavaScript, React and Angular.**
 
 - 📫 How to reach me **ppaz.victor@gmail.com**
 
