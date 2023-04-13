@@ -1,4 +1,4 @@
-# Hi there, I'm Victor Paz (https://github.com/yourusername) 👋
+# Hi there, I'm (https://github.com/vitinppaz) 👋
 
 ## About Me
 
@@ -29,4 +29,4 @@ Here are some of the projects I have worked on:
 ## Contact Me
 
 - Email: ppaz.victor@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/victorppaz/)
+- LinkedIn: (https://www.linkedin.com/in/victorppaz/)
