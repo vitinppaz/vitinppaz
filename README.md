@@ -1,4 +1,4 @@
-# Hi there, I'm (https://github.com/vitinppaz) 👋
+# Hi there, I'm Victor 👋
 
 ## About Me
 
