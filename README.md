@@ -1,19 +1,5 @@
 # Hi there, I'm Victor 👋
 
-## About Me
-
-I am a passionate web developer with experience in various technologies including:
-
-- HTML
-- CSS
-- JavaScript
-- React
-- MySQL
-- Dart
-- Figma
-- Git
-- PHP
-
 ## My GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitinppaz&show_icons=true&theme=radical)
